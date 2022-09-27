@@ -1,0 +1,80 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200827/pngtree-cyan-abstract-background-image_397370.jpg);
+    background-color: antiquewhite;
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+.main2{
+    background-image:url();
+    background-repeat: no-repeat;
+    background-size: 0%;
+    
+}
+.space{
+    margin-left: 50%;
+    text-align: right;
+}
+.home{
+    text-align: right;
+    margin: 10px;
+    font-size: medium;
+    font-weight: 700;
+}
+
+.intro{
+    box-sizing: content-box;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 250px;
+    margin-left: 210px;
+    margin-bottom: 0px;
+    overflow: visible;
+    text-align:;
+    font-size: 40px;
+    width:60%;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.new{
+    margin-top: 0px;
+    margin-left: 210px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: 600;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.web{
+    color: blue;
+}
+
+button{
+    border-radius: 10px;
+    text-transform: uppercase;
+    text-overflow: clip;
+    font-size: 20px;
+    margin-left: 230px;
+    color-scheme: red;
+    color: blanchedalmond;
+    background-color: blue;
+}
+
+.images{
+    margin-top: 10px;
+    margin-left: 220px;
+    font-size: 17px;
+}
+
+.dev{
+    border-radius: 100px;
+    position:absolute;
+    left: 600px;
+    top: 200px;
+    float:;
+    margin-left: 0px;
+    clear:;
+    margin-top: 0px;
+    margin-left: 200px;
+}
